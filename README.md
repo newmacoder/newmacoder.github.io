@@ -95,6 +95,3 @@
 - **Jekyll教程**：[Jekyll官方文档](https://jekyllrb.com/)
 - **Git入门**：[Pro Git电子书](https://git-scm.com/book/zh/v2)
 
----
-
-按照以上步骤操作，你可以在10分钟内快速搭建一个基础网站。遇到问题时，优先检查仓库命名和文件路径是否正确，逐步排查即可。
