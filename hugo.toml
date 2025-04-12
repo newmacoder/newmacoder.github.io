@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.lyphahaha.top/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'lyp的流水账'
 theme = 'ananke'
 [caches]
   [caches.images]
