@@ -212,3 +212,10 @@ git push -u origin master:main  # 将本地 master 分支推送到远程 main �
 ### 部署到githubpages
 
 Hugo 提供非常详尽的 [GitHub Pages 部署指引](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+自定义域名
+
+在Pages设置里面填写，然后为域名添加一个cname记录即可
+
+
+
