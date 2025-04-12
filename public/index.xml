@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Apr 2025 11:31:52 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo&#43;Git Hub Pages搭建博客</title>
-      <link>http://localhost:1313/posts/hugo&#43;githubpages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <title>My First Post</title>
+      <link>https://example.org/posts/hugo&#43;githubpages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Fri, 11 Apr 2025 11:31:52 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hugo&#43;githubpages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>&lt;h2 id=&#34;hugogit-hub-pages搭建博客&#34;&gt;Hugo+Git Hub Pages搭建博客&lt;/h2&gt;</description>
+      <guid>https://example.org/posts/hugo&#43;githubpages%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>&lt;h1 id=&#34;hugogithub-pages搭建博客&#34;&gt;Hugo+GitHub Pages搭建博客&lt;/h1&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Fri, 11 Apr 2025 11:31:52 -0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://example.org/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hello,lyphahaha&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

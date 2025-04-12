@@ -7,6 +7,7 @@ title = 'My First Post'
 
 # Hugo+GitHub Pages搭建博客
 <!--more-->
+
 ## Hugo搭建博客
 
 ### 安装Hugo及Git
@@ -207,3 +208,7 @@ git push -u origin master:main  # 将本地 master 分支推送到远程 main �
 - 在左侧边栏中，点击**“Personal access token”**下的**”Personal access tokens (classic)“**
 - 
   选择“生成新令牌”，然后点击“生成新令牌
+
+### 部署到githubpages
+
+Hugo 提供非常详尽的 [GitHub Pages 部署指引](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
