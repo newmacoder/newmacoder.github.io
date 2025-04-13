@@ -217,7 +217,4 @@ Hugo 提供非常详尽的 [GitHub Pages 部署指引](https://gohugo.io/hosting
 
 在Pages设置里面填写，然后在域名管理网站为域名添加一个cname记录即可
 
-![image-20250413045518150](hugo+githubpages搭建博客.assets/image-20250413045518150.png)
-
-
-
+![image-20250413045518150](https://alist.lyphahaha.top/d/onedrive/alist-for-guest/images_bed/hugo+githubpages搭建博客.assets/image-20250413045518150.png)
