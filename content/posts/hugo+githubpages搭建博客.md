@@ -43,7 +43,7 @@ title = 'Hugo+GitHub Pages搭建博客'
   
 - 将 Ananke 主题克隆到 `themes` 目录中，将其作为 Git 子模块添加到的项目中
 
-  该主题项目里详细介绍了各种参数的使用
+  该[主题项目](https://github.com/theNewDynamic/gohugo-theme-ananke)里详细介绍了各种参数的使用
 
   ```text
   git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
