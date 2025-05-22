@@ -145,7 +145,7 @@ Hugo 会在项目根目录下的 `public` 目录中创建整个静态网站。�
 
 **参考链接** 
 
-[hugo快速开始](https://gohugo.io/getting-started/quick-start/)
+[hugo中文文档](https://hugo.opendocs.io/getting-started/)
 
 [hugo项目地址](https://github.com/gohugoio/hugo)
 
